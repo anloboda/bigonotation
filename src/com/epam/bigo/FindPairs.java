@@ -2,9 +2,6 @@ package com.epam.bigo;
 
 import java.util.HashSet;
 
-// let's say you have an array of integers,
-// and the task is to find pairs of elements whose sum is equal to a given target value.
-
 public class FindPairs {
 
 // let's say you have an array of integers,
